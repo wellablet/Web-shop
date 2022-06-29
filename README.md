@@ -1,1 +1,1 @@
-﻿# shop
+﻿# web-shop
